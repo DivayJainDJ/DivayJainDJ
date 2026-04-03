@@ -1,120 +1,129 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:06b6d4,100:22c55e&text=Divay%20Jain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Creator&descAlignY=58&animation=fadeIn" alt="header" />
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
-</h1>
+<div align="center">
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+products+that+feel+sharp+and+useful;Full-stack+development+with+AI-first+thinking;Hackathon+projects+with+real+execution;Designing+systems%2C+not+just+screens)](https://git.io/typing-svg)
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<td width="58%" valign="top">
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
+## About Me
+
+I like building products that look polished, move fast, and still have real technical depth.
+
+- Full-stack builder focused on product quality and execution
+- Interested in AI workflows, developer tools, modern web apps, and strong UX
+- Building across frontend apps, backend services, CLI tools, and intelligent assistants
+- Working with `Next.js`, `TypeScript`, `JavaScript`, `Python`, APIs, databases, and AI-powered flows
+
+## Current Focus
+
+```ts
+const divay = {
+  building: ["AI tools", "full-stack apps", "developer products"],
+  caresAbout: ["clean UX", "real usefulness", "strong execution"],
+  exploring: ["RAG systems", "CLI assistants", "product design", "scalable architecture"],
+  status: "shipping better projects, faster",
+};
+```
+
+## Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,supabase,firebase,git,github,vscode,figma&perline=10" alt="tech stack" />
+</div>
+
+## What I Build
+
+- AI-powered coding and debugging tools
+- Full-stack web products with clean interfaces
+- RAG and LLM-based experiments
+- Utility apps, portfolio builds, and rapid prototypes
 
 </td>
+<td width="42%" valign="top">
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
-</td>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd4MXA0YzgxMThzeWttMWVpaXI2d2w4ajJwZWVsdG1vbGRtczdiYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="coding animation" />
+</div>
 
+### Profile Pulse
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20x%20Product%20Engineering-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="focus" />
+  <br />
+  <img src="https://img.shields.io/badge/Mode-Building%20and%20Shipping-1d4ed8?style=for-the-badge" alt="mode" />
+  <br />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-06b6d4?style=for-the-badge" alt="collaboration" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=DivayJainDJ&style=for-the-badge&color=22c55e" alt="profile views" />
+</div>
 
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
 </td>
 </tr>
 </table>
-</p>
 
-
-
-
-
-
-## 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <a href="https://github.com/DivayJainDJ/Code-Debugger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Code-Debugger&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Code Debugger" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/RAG-Query">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=RAG-Query&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="RAG Query" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/Mini-Cursor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Mini-Cursor&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Mini Cursor" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/Movies-Graph-DB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Movies-Graph-DB&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Movies Graph DB" />
+  </a>
 </div>
 
----
+## Project Themes
 
-## ❤️ Support Me
+- `AI assistants`: `Code-Debugger`, `Coding-Chatbot`, `Mini-Cursor`, `Weather-and-Crypto-LLM`
+- `RAG and knowledge systems`: `RAG-Query`, `Movies-Graph-DB`
+- `Backend work`: `Interview-AI-Backend`, `Spotify-playlist`
+- `Frontend and product builds`: `Divay-portfolio`, `Gallery-React`, `NotesApp`, `Speech-to-Text`
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+## GitHub Motion
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DivayJainDJ&show_icons=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937&ring_color=38bdf8" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivayJainDJ&layout=compact&theme=transparent&title_color=38bdf8&text_color=e2e8f0&border_color=1f2937" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=DivayJainDJ&theme=transparent&ring=38bdf8&fire=22c55e&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1f2937" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivayJainDJ&bg_color=0f172a00&color=e2e8f0&line=38bdf8&point=22c55e&area=true&hide_border=true" alt="Contribution graph" />
+</div>
+
+## Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DivayJainDJ&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+</div>
+
+## Collaboration
+
+If you are building something thoughtful and execution-heavy, I am interested in:
+
+- full-stack products
+- AI tools
+- hackathon projects
+- developer-focused platforms
+
+<div align="center">
+
+### Build with intent. Ship with quality.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,35:1d4ed8,70:06b6d4,100:22c55e" alt="footer" />
