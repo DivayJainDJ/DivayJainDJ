@@ -1,28 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1220,35:0f3d8c,68:0891b2,100:22c55e&text=Divay%20Jain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-Minded%20Engineer&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,28:0f172a,52:1d4ed8,78:0891b2,100:22c55e&text=Divay%20Jain&fontSize=56&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20Projects%20%7C%20Product%20Engineering&descAlignY=58&animation=fadeIn" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Building+AI+tools+that+feel+useful;Shipping+full-stack+products+with+clean+execution;Exploring+RAG%2C+developer+tools%2C+and+smart+systems;Turning+fast+ideas+into+strong+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=950&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+AI+tools+that+feel+real;Full-stack+projects+with+clean+execution;RAG%2C+backend+systems%2C+and+developer+workflows;Always+trying+to+ship+better+than+my+last+project)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20x%20Full%20Stack-111827?style=for-the-badge&logo=github&logoColor=white" alt="focus" />
-  <img src="https://img.shields.io/badge/Building-Developer%20Tools-1d4ed8?style=for-the-badge" alt="building" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-0891b2?style=for-the-badge" alt="collaboration" />
+  <img src="https://img.shields.io/badge/Focus-AI%20x%20Product%20Engineering-111827?style=for-the-badge&logo=github&logoColor=white" alt="focus" />
+  <img src="https://img.shields.io/badge/Current%20Mode-Building-1d4ed8?style=for-the-badge" alt="mode" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0891b2?style=for-the-badge" alt="collaboration" />
   <img src="https://komarev.com/ghpvc/?username=DivayJainDJ&style=for-the-badge&color=22c55e" alt="profile views" />
 </p>
 
 </div>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## Hi, I'm Divay
 
 I build projects around AI, full-stack systems, and product execution.
-Most of my work sits across developer tools, LLM workflows, RAG experiments, backend services, and frontend products that aim to feel polished instead of rushed.
+What I care about most is making projects feel complete: useful idea, good UX, clean logic, and enough depth that the work feels real instead of rushed.
 
-What matters to me:
+### What I'm into
 
-- solving a real problem
-- building something people actually enjoy using
-- making projects look as good as they work
+- AI-powered developer tools
+- RAG and LLM workflows
+- backend systems and APIs
+- polished frontend products
+- hackathon-style builds with real product energy
+
+### Current profile direction
+
+```ts
+const divay = {
+  role: "Full-Stack Developer",
+  building: ["AI assistants", "developer tools", "RAG systems", "web products"],
+  values: ["useful", "clean", "fast", "polished"],
+  goal: "ship projects that people remember",
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/187174264?v=4" width="180" style="border-radius: 50%;" alt="Divay Jain avatar" />
+</div>
+
+### Snapshot
+
+- Full-stack development
+- AI-first experimentation
+- Product-oriented execution
+- Rapid prototyping mindset
+- Focus on strong presentation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,7 +66,7 @@ What matters to me:
 
 <div align="center">
 
-| Area | Stack |
+| Domain | Stack |
 |---|---|
 | Languages | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="languages" /> |
 | Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="frontend" /> |
@@ -42,7 +78,7 @@ What matters to me:
 
 ---
 
-## Featured Projects
+## Signature Projects
 
 <div align="center">
   <a href="https://github.com/DivayJainDJ/Code-Debugger">
@@ -59,43 +95,32 @@ What matters to me:
   </a>
 </div>
 
-### Project Highlights
-
-- `Code-Debugger`  
-  Gemini-powered debugging assistant focused on practical code-help workflows.
-
-- `Mini-Cursor`  
-  A CLI coding assistant inspired by Cursor and built around AI-first developer interaction.
-
-- `RAG-Query`  
-  A retrieval-augmented generation project using vector search and LLM-driven querying.
-
-- `Movies-Graph-DB`  
-  A Neo4j + Gemini graph/RAG experiment for connected movie knowledge exploration.
-
-- `Interview-AI-Backend`  
-  Backend work for AI interview-oriented application flows.
-
-- `Divay-portfolio`  
-  Personal portfolio work focused on frontend presentation and product feel.
+| Project | What it does |
+|---|---|
+| [Code-Debugger](https://github.com/DivayJainDJ/Code-Debugger) | Gemini-powered debugging assistant for practical code analysis and debugging help. |
+| [Mini-Cursor](https://github.com/DivayJainDJ/Mini-Cursor) | CLI coding assistant inspired by Cursor, built around AI-first developer workflows. |
+| [RAG-Query](https://github.com/DivayJainDJ/RAG-Query) | Retrieval-augmented generation system using vector search and LLM querying. |
+| [Movies-Graph-DB](https://github.com/DivayJainDJ/Movies-Graph-DB) | Neo4j + Gemini graph/RAG experiment for connected movie knowledge exploration. |
+| [Interview-AI-Backend](https://github.com/DivayJainDJ/Interview-AI-Backend) | Backend project for AI interview-oriented application logic and services. |
+| [Divay-portfolio](https://github.com/DivayJainDJ/Divay-portfolio) | Portfolio build focused on frontend presentation and product feel. |
 
 ---
 
-## Project Zones
+## Build Categories
 
 - `AI assistants` : Code-Debugger, Coding-Chatbot, Mini-Cursor, Weather-and-Crypto-LLM
-- `RAG systems` : RAG-Query, Movies-Graph-DB
-- `Backend builds` : Interview-AI-Backend, Spotify-playlist
+- `RAG + knowledge systems` : RAG-Query, Movies-Graph-DB
+- `Backend services` : Interview-AI-Backend, Spotify-playlist
 - `Frontend products` : Divay-portfolio, Gallery-React, NotesApp, Speech-to-Text
-- `Fast utility projects` : Currency-converter, Background-Color-Changer, Random-Quote-Generator
+- `Quick utility builds` : Currency-converter, Background-Color-Changer, Random-Quote-Generator
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DivayJainDJ&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivayJainDJ&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DivayJainDJ&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivayJainDJ&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 <div align="center">
@@ -106,16 +131,24 @@ What matters to me:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivayJainDJ&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </div>
 
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivayJainDJ&theme=tokyonight" alt="profile details" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DivayJainDJ&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+</div>
+
 ---
 
 ## Builder Mindset
 
-I want my GitHub to reflect the same standard I want in my projects:
+I want my GitHub to feel like my projects:
 
-- clean, not noisy
-- creative, not generic
-- useful, not just flashy
-- technical, but still enjoyable to explore
+- intentional
+- technically strong
+- creative without being messy
+- interesting enough that people keep exploring
 
 ---
 
@@ -127,8 +160,8 @@ I am most interested in building with people working on:
 - full-stack apps
 - developer tools
 - backend systems
-- ambitious hackathon-style builds
+- ambitious hackathon builds
 
 If the project is thoughtful and execution-focused, I am interested.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1220,35:0f3d8c,68:0891b2,100:22c55e" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:030712,28:0f172a,52:1d4ed8,78:0891b2,100:22c55e" alt="footer" />
