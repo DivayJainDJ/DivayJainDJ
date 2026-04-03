@@ -1,58 +1,77 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1020,25:111c44,55:1d4ed8,80:06b6d4,100:22c55e&text=Divay%20Jain&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Tools%20%7C%20Product%20Builder&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0f172a,55:1d4ed8,78:06b6d4,100:22c55e&text=Divay%20Jain&fontSize=56&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Creative%20Problem%20Solver&descAlignY=58&animation=fadeIn" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Building+AI+projects+that+feel+real;Full-stack+apps+with+clean+execution;RAG+systems%2C+developer+tools%2C+rapid+builds;Shipping+ideas+that+go+beyond+just+demo+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+AI+projects+that+feel+alive;Shipping+full-stack+products+with+real+execution;Turning+ideas+into+tools%2C+systems%2C+and+experiences;Always+building+something+better+than+the+last+repo)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Building-Developer%20Tools-1d4ed8?style=for-the-badge" alt="Building" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-06b6d4?style=for-the-badge" alt="Open to Collaboration" />
+  <img src="https://img.shields.io/badge/AI%20Tools-Active-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Building-1d4ed8?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-06b6d4?style=for-the-badge" alt="Collaboration" />
   <img src="https://komarev.com/ghpvc/?username=DivayJainDJ&style=for-the-badge&color=22c55e" alt="Profile views" />
 </p>
 
 </div>
 
-## Hi, I'm Divay
+<table>
+<tr>
+<td width="57%" valign="top">
 
-I build projects around AI, full-stack development, and product execution.
-Most of my work sits somewhere between developer tools, intelligent assistants, fast prototypes, and practical web products.
+# Hi there, I'm Divay
 
-The goal is simple: build things that look good, work well, and solve something real.
+I like building products that mix engineering, interface design, and problem solving.
+My work usually lives around AI assistants, full-stack apps, backend systems, rapid prototypes, and projects that try to feel like real products instead of just assignments.
+
+### Current Direction
+
+- Building AI-first developer tools and assistants
+- Exploring RAG, LLM workflows, and practical automation
+- Creating polished web apps with strong frontend presence
+- Turning hackathon energy into projects that feel production-minded
+
+### Quick Snapshot
+
+```ts
+const divay = {
+  role: "Full-Stack Developer",
+  strengths: ["AI tools", "product thinking", "rapid execution"],
+  worksWith: ["Next.js", "React", "Node.js", "JavaScript", "TypeScript", "Python"],
+  buildingStyle: "sharp UI + useful systems + fast iteration",
+};
+```
+
+</td>
+<td width="43%" valign="top">
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs2Y2V3M2h4djNrMzlhM2RrMTE1cTlrbjlvdmEyOWJha2I1b3FkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation" />
+</div>
+
+### Profile Pulse
+
+- Building in public through experiments and prototypes
+- Focused on useful AI, not gimmicks
+- Interested in products people actually enjoy using
+- Always improving both code quality and visual quality
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Technical Skills
 
-### Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Programming" />
-</p>
+<div align="center">
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" alt="Frameworks" />
-</p>
+| Area | Stack |
+|---|---|
+| Languages | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="languages" /> |
+| Frameworks | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" alt="frameworks" /> |
+| Databases & Backend | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,firebase" alt="backend" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="tools" /> |
 
-### AI, Data & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,firebase" alt="Backend" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
-</p>
-
----
-
-## What I Build
-
-- AI-powered coding assistants and debugging tools
-- RAG experiments and knowledge-based systems
-- CLI apps and backend services
-- frontend products with better UI than the average student project
-- hackathon builds that are meant to feel product-ready
+</div>
 
 ---
 
@@ -73,20 +92,27 @@ The goal is simple: build things that look good, work well, and solve something 
   </a>
 </div>
 
-### Project Highlights
+### Build Themes
 
-- `Code-Debugger`:
-  Gemini-powered debugging assistant built around practical code-help workflows.
-- `Mini-Cursor`:
-  A CLI coding assistant inspired by Cursor with an AI-first interaction style.
-- `RAG-Query`:
-  Retrieval-augmented generation project using vector search and LLM workflows.
-- `Movies-Graph-DB`:
-  Neo4j + Gemini based graph/RAG experiment for connected movie knowledge.
-- `Interview-AI-Backend`:
-  Backend work for AI interview-style application logic.
-- `Divay-portfolio`:
-  Personal portfolio project showing frontend/product direction.
+#### AI Assistants
+- `Code-Debugger` for debugging help
+- `Mini-Cursor` for CLI-based coding workflows
+- `Coding-Chatbot` for interactive AI conversation
+- `Weather-and-Crypto-LLM` for practical Gemini-based querying
+
+#### RAG & Knowledge Systems
+- `RAG-Query` for retrieval-augmented workflows
+- `Movies-Graph-DB` for graph-based knowledge exploration with Neo4j
+
+#### Product & Frontend Work
+- `Divay-portfolio`
+- `Gallery-React`
+- `NotesApp`
+- `Speech-to-Text`
+
+#### Backend Work
+- `Interview-AI-Backend`
+- `Spotify-playlist`
 
 ---
 
@@ -111,27 +137,32 @@ The goal is simple: build things that look good, work well, and solve something 
 
 ---
 
-## Project Themes
+## Developer Aesthetic
 
-- `AI assistants`: Code-Debugger, Coding-Chatbot, Mini-Cursor, Weather-and-Crypto-LLM
-- `RAG systems`: RAG-Query, Movies-Graph-DB
-- `Backend projects`: Interview-AI-Backend, Spotify-playlist
-- `Frontend builds`: Divay-portfolio, Gallery-React, NotesApp, Speech-to-Text
-- `Utility projects`: Currency-converter, Background-Color-Changer, Random-Quote-Generator
+I care about three things when building:
+
+- products should feel intentional
+- code should solve a real problem
+- visuals should make people want to keep scrolling
+
+That is the standard I want my projects and profile to reflect.
 
 ---
 
-## Let's Connect Through Work
+## Collaboration
 
-If you're building something in:
+I am most interested in collaborating on:
 
-- AI tools
+- AI-powered products
 - full-stack web apps
-- hackathon products
-- developer-focused platforms
+- hackathon-quality builds
+- developer tools
+- experimental but useful ideas
 
-then I’m interested in seeing it.
+<div align="center">
 
-> "Build with intent. Ship with quality."
+### Build with intent. Ship with quality.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0b1020,25:111c44,55:1d4ed8,80:06b6d4,100:22c55e" alt="footer" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,25:0f172a,55:1d4ed8,78:06b6d4,100:22c55e" alt="footer" />
