@@ -11,10 +11,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ## About Me
 
 I build projects around AI, backend systems, and full-stack product development.
@@ -27,17 +23,6 @@ What I want my work to feel like:
 - strong enough that people remember it
 
 Most of my projects sit around developer tools, RAG systems, AI assistants, and web products with better UX than the average prototype.
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/213910581-f9771708-3c2e-4f9f-8e0d-6f0f0f85bc2d.gif" alt="coding animation" />
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
