@@ -1,84 +1,118 @@
 <div align="center">
 
-# Divay Jain
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,35:1d4ed8,70:06b6d4,100:22c55e&text=Divay%20Jain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Creative%20Engineer&descAlignY=58&animation=fadeIn" alt="header" />
 
-### Full-Stack Developer | AI Builder | Product-Focused Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+projects+that+feel+alive;Shipping+full-stack+products+with+strong+execution;Creating+developer+tools%2C+RAG+systems%2C+and+clean+UX;Always+trying+to+build+better+than+the+last+repo)](https://git.io/typing-svg)
 
-Building developer tools, AI workflows, backend systems, and polished web products.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DivayJainDJ&style=flat-square&color=0ea5e9)](https://github.com/DivayJainDJ)
-[![GitHub](https://img.shields.io/badge/GitHub-DivayJainDJ-181717?style=flat-square&logo=github)](https://github.com/DivayJainDJ)
+<p>
+  <a href="https://github.com/DivayJainDJ">
+    <img src="https://img.shields.io/badge/GitHub-DivayJainDJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/AI%20Tools-Builder-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-1d4ed8?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-06b6d4?style=for-the-badge" alt="Collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=DivayJainDJ&style=for-the-badge&color=22c55e" alt="Profile views" />
+</p>
 
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## About
+## About Me
 
-I build projects that try to feel complete, not rushed.
+I build projects around AI, full-stack systems, and product execution.
 
-My work usually sits around:
+Most of my work lives around:
 
 - AI-powered developer tools
-- RAG and LLM-based workflows
-- backend services and APIs
-- full-stack web apps with stronger UI than the average prototype
-- hackathon-style builds that still feel product-minded
+- RAG and LLM workflows
+- backend systems and APIs
+- polished frontend products
+- hackathon builds that feel product-minded
+
+I care about making projects feel complete, not rushed.
+
+</td>
+<td width="42%" valign="top">
+
+<div align="center">
+  <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3)
+<div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite)
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&perline=6" alt="Languages" />
 
-**Backend and Data**  
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
+### Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6" alt="Frameworks" />
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman)
+### Databases and Platforms
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,firebase&perline=5" alt="Databases" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" alt="Tools" />
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### [Code-Debugger](https://github.com/DivayJainDJ/Code-Debugger)
-Gemini-powered debugging assistant focused on practical code-help workflows.
+<div align="center">
+  <a href="https://github.com/DivayJainDJ/Code-Debugger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Code-Debugger&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Code Debugger" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/Mini-Cursor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Mini-Cursor&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Mini Cursor" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/RAG-Query">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=RAG-Query&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="RAG Query" />
+  </a>
+  <a href="https://github.com/DivayJainDJ/Movies-Graph-DB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivayJainDJ&repo=Movies-Graph-DB&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="Movies Graph DB" />
+  </a>
+</div>
 
-### [Mini-Cursor](https://github.com/DivayJainDJ/Mini-Cursor)
-A CLI coding assistant inspired by Cursor and built around AI-first developer interaction.
+### Project Focus
 
-### [RAG-Query](https://github.com/DivayJainDJ/RAG-Query)
-Retrieval-augmented generation project using vector search and LLM-driven querying.
+- **Code-Debugger**: Gemini-powered debugging assistant for practical code-help workflows.
+- **Mini-Cursor**: CLI coding assistant inspired by Cursor with an AI-first workflow.
+- **RAG-Query**: Retrieval-augmented generation project using vector search and LLM querying.
+- **Movies-Graph-DB**: Neo4j + Gemini graph/RAG experiment for connected movie knowledge.
+- **Interview-AI-Backend**: Backend work for AI interview-oriented application flows.
+- **Divay-portfolio**: Frontend portfolio build focused on presentation and product feel.
 
-### [Movies-Graph-DB](https://github.com/DivayJainDJ/Movies-Graph-DB)
-Neo4j + Gemini graph/RAG experiment for connected movie knowledge exploration.
+---
 
-### [Interview-AI-Backend](https://github.com/DivayJainDJ/Interview-AI-Backend)
-Backend work for AI interview-oriented application flows.
+## GitHub Motion
 
-### [Divay-portfolio](https://github.com/DivayJainDJ/Divay-portfolio)
-Portfolio work focused on frontend presentation and product feel.
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DivayJainDJ&show_icons=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937&ring_color=38bdf8" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivayJainDJ&layout=compact&theme=transparent&title_color=38bdf8&text_color=e2e8f0&border_color=1f2937" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=DivayJainDJ&theme=transparent&ring=38bdf8&fire=22c55e&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1f2937" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivayJainDJ&bg_color=0f172a00&color=e2e8f0&line=38bdf8&point=22c55e&area=true&hide_border=true" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivayJainDJ&theme=tokyonight" alt="Profile details" />
+</div>
 
 ---
 
@@ -91,48 +125,27 @@ Portfolio work focused on frontend presentation and product feel.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/DivayJainDJ">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DivayJainDJ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/DivayJainDJ">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivayJainDJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DivayJainDJ">
-    <img src="https://streak-stats.demolab.com?user=DivayJainDJ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DivayJainDJ">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivayJainDJ&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-  </a>
-</div>
-
----
-
-## Build Style
+## Builder Mindset
 
 The standard I aim for in my work:
 
 - useful before flashy
 - polished before rushed
-- technically solid without feeling dry
+- technically strong without feeling dry
 - creative without becoming messy
 
 ---
 
 ## Collaboration
 
-I am interested in working on:
+I am interested in building with people working on:
 
-- AI products
+- AI-powered products
 - full-stack apps
-- backend systems
 - developer tools
+- backend systems
 - strong hackathon builds
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1020,35:1d4ed8,70:06b6d4,100:22c55e" alt="footer" />
+</div>
